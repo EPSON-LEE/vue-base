@@ -1,46 +1,6 @@
-# vue-base
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Generate your code doc
-```
-npm run doc
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### directory
-
+.
 ├── README.md
+├── README2.md
 ├── babel.config.js
 ├── esdoc.json
 ├── package-lock.json
@@ -81,3 +41,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 └── tests
     └── unit
         └── example.spec.js
+
+9 directories, 33 files
