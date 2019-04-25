@@ -40,6 +40,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### directory
 
+```
 ├── README.md
 ├── babel.config.js
 ├── esdoc.json
@@ -81,3 +82,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 └── tests
     └── unit
         └── example.spec.js
+```
